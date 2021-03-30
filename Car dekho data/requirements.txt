@@ -67,7 +67,7 @@ prompt-toolkit==3.0.4
 psutil==5.7.0
 pycosat==0.6.3
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyMySQL==0.9.3
 PyMysqlDB==0.0.2
 pyOpenSSL==19.1.0
